@@ -18,7 +18,6 @@ Four Kitchens has been a company I've been following for a long time as a Drupal
 
 To me it's cause for joy to be applying for a position with you, knowing that if I get hired, I'll be surrounded by the best, in such an environment where I'll have the potential to take my Drupal and web dev skills a whole step above.
 
-That's something I'll thrive for!
 
 ## Core Values
 
