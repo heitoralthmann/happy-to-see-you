@@ -4,13 +4,10 @@ Paranavaí, 06/02/2021
 
 **Heitor Althmann Cezar**
 
-heitoralthmann@gmail.com
-
-LinkedIn profile: [https://www.linkedin.com/in/heitoralthmann/](https://www.linkedin.com/in/heitoralthmann/)
-
-Drupal.org profile: [https://www.drupal.org/u/halth](https://www.drupal.org/u/halth)
-
-Github profile: [https://github.com/heitoralthmann](https://github.com/heitoralthmann)
+heitoralthmann@gmail.com<br/>
+LinkedIn profile: [https://www.linkedin.com/in/heitoralthmann/](https://www.linkedin.com/in/heitoralthmann/)<br/>
+Drupal.org profile: [https://www.drupal.org/u/halth](https://www.drupal.org/u/halth)<br/>
+Github profile: [https://github.com/heitoralthmann](https://github.com/heitoralthmann)<br/>
 
 
 Four Kitchens Recruiting Department
