@@ -4,10 +4,11 @@ Paranavaí, 06/02/2021
 
 **Heitor Althmann Cezar**
 
-heitoralthmann@gmail.com
-LinkedIn profile: [https://www.linkedin.com/in/heitoralthmann/](https://www.linkedin.com/in/heitoralthmann/)
-Drupal.org profile: [https://www.drupal.org/u/halth](https://www.drupal.org/u/halth)
-Github profile: [https://github.com/heitoralthmann](https://github.com/heitoralthmann)
+heitoralthmann@gmail.com<br/>
+LinkedIn profile: [https://www.linkedin.com/in/heitoralthmann/](https://www.linkedin.com/in/heitoralthmann/)<br/>
+Drupal.org profile: [https://www.drupal.org/u/halth](https://www.drupal.org/u/halth)<br/>
+Github profile: [https://github.com/heitoralthmann](https://github.com/heitoralthmann)<br/>
+
 
 Four Kitchens Recruiting Department
 
@@ -29,7 +30,7 @@ Having realised at a young age that life is short, and that there's something mo
 
 Here's a picture of myself and my good friend Galileu, who's an intern in a nursing home in my home town that I visit every single weekend.
 
-![images/myself-and-galileu.png](myself-and-galileu.png)
+![images/myself-and-galileu.png](images/myself-and-galileu.png)
 
 (*Galileu got blinded by diabetes, so I like to play him some traditional Brazilian folk music to help him relive some memories from his past*).
 
