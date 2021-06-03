@@ -29,7 +29,7 @@ Having realised at a young age that life is short, and that there's something mo
 
 Here's a picture of myself and my good friend Galileu, who's an intern in a nursing home in my home town that I visit every single weekend.
 
-![images/myself-and-galileu.png](myself-and-galileu.png)
+![images/myself-and-galileu.png](images/myself-and-galileu.png)
 
 (*Galileu got blinded by diabetes, so I like to play him some traditional Brazilian folk music to help him relive some memories from his past*).
 
